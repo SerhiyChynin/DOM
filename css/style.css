@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+}
+body {
+    width: 1000px;
+    /* text-align: center; */
+    margin: 0 auto;
+}
+div {
+    margin-bottom: 20px;
+    margin: 0 auto;
+    padding: 10px;
+}
+hr {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+button {
+    margin: 5px auto;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.text-center {
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+.age {
+    margin: 10px auto;
+        
+}
+.one {
+    background-color: bisque;
+}
+
+.two {
+    background-color: rgb(118, 86, 54);
+} 
+.three {
+    border: 4px solid black;
+}
+.out-1 {
+    background-color: blueviolet;
+    
+}
+.out-3 {
+    background-color: orange;
+}
+input {
+    margin-left: 30px;
+}
+hr {
+    border-radius: 70%;
+}
